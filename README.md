@@ -43,8 +43,7 @@ A REST API written in Python that exposes information about the machine it runs 
 I'm open to feedback, code reviews and collaboration.
 
 - GitHub: [@MulittleGoji](https://github.com/MulittleGoji)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- Email: murilolopes179@outlook.com.br
 
 ---
 
